@@ -1,0 +1,10 @@
+Body {font-size: 100%; font-family: arial, sans-serif; background-image: url("pizza.png");
+		}
+table {width: 600px; min-width: 600px; background: green;
+		}
+thead {width: 600px; background: #ff3100; color:#259433; font-size: 1.4em;
+		}
+tbody {background: #ffc040; color: green; font-size: 1.4em; text-align: center;
+		}
+caption{color:black; font-family: bold; font-size: 2em;
+		}

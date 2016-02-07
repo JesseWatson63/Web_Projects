@@ -1,0 +1,75 @@
+body {background: url("background.jpg");
+	background-attachment: fixed;
+	background-repeat:3;
+	background-size:1500px 2000px;
+	background-position:center;
+	color:white;font-family:rockwell,bold;
+}
+
+
+nav{}
+
+nav ul {
+	
+}
+
+nav li {list-style type:none;
+	display:inline;
+	
+}
+
+nav a { border:5px solid black;
+	padding: 10px;
+	margin: 10px;
+	color:red;
+	font-size:1.5em;
+	text-decoration:none;
+}
+
+nav a:hover {color:black; background:green;
+}
+
+
+nav a:visit {color: blue;
+}
+
+.enterprisetext { margin: 5px;
+	border: 10px solid #ffc600;
+	width:645px;
+	background: url("background3.jpg");
+}
+
+.enterprise {
+	float:right;
+}
+
+.bridge1 {float:left;
+}
+
+.bridge2 {float: right;
+}
+
+.bridge3 {float: middle;
+}
+
+marquee {Font-size:300%;
+	background-color:black;
+	color:#06246f;
+}
+
+.original { font-size:200%;
+}
+
+
+
+
+.mainh1 {font-size:200%;text-align:center;
+color:#ffc600;
+font-family:rockwell,serif;
+border: 10px solid silver;
+background: url("comm.png");
+}
+
+.list { font-size: 150%;
+}
+

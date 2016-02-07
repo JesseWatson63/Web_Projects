@@ -1,0 +1,21 @@
+body {background: url("background2.jpg");
+	background-attachment: fixed;
+	background-repeat:3;
+	background-size:1500px 2000px;
+	background-position:center ;
+color:white;font-family:rockwell,bold;}
+
+.enterprisetext {border: 10px solid #fd0006;
+	width:650px;float:right;color:green; }
+
+.enterprise {float:left;}
+.bridge1 {float:left;}
+.bridge2 {float: right;}
+.bridge3 {float: middle;}
+marquee {Font-size:300%;
+	background-color:#1dd300;
+	color:#06246f;}
+
+.original { font-size:200%;}
+h1 {font-size:300%;text-align:center;color:#fd0006;font-family:rockwell,serif;}
+

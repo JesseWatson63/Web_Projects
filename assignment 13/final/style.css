@@ -1,0 +1,25 @@
+
+h1 {
+	background: blue; position: fixed; text-align: center; text: fixed; height: 100px; width: 1425px;
+	}
+body {
+	background: #3f92d2;  
+	}
+table {
+	position: fixed; left: 30px; right: 700px; top: 160px; height: 400px; width: 700px; border: 5px solid green;
+	}
+thead {
+	background: #00aa72; font-size: 1.4em; 
+	}
+tbody {
+	background: #dcf900;
+	}
+nav {
+	 background: #dcf900; position: fixed; top: 600px; height: 100px; width: 1425px; 
+	}
+nav li {
+	display: inline; padding: 50px; font-size: 1.8em;
+	}
+#mobile {
+	position: fixed; left: 800px; top: 160px; height: 400px; width: 600px;
+	}

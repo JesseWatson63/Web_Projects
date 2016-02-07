@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8" />
+		<title>The Pizza Order</title>
+		<link rel="stylesheet" type"text/css" href="style.css">
+</head>
+<body>
+<form action="http://cissql.lorainccc.edu/zellers/ciss216lab.php">
+		<table align="center">
+			<caption>Order Your Pizza</caption>
+			<thead>
+				<tr> 
+					<th>Field</th> 
+					<th>Name Of Field(s)</th> 
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Name</td>
+					<td>
+					<input type="text" name="frmName">
+					</td>
+				</tr>
+				<tr>
+					<td>Phone</td>
+					<td>
+					<input type="text" name="frmPhone">
+					</td>
+				</tr>
+				<tr>
+					<td>Size</td>
+					<td>		
+						<select name="frmSize" id="frmSize">
+						<option value="">Please Select Size</option>
+						<option value="S">Small</option>
+						<option value="M">Medium</option>				
+						<option value="L">Large</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Type Of Crust</td>
+					<td>
+						<select name="frmCrust" id="frmCrust">
+						<option value="">Please Select Crust</option>
+						<option value="2">Thick Crust</option>
+						<option value="1">Thin Crust</option>
+						<option value="3">surprise</option>
+					</td>
+				</tr>
+				<tr>
+					<td>Mushrooms</td>
+					<td>
+						<select name="frmMushrooms" id="frmMushrooms">
+						<option value="Y"> Yes</option>
+						<option value="N"> No </option>
+					</td>
+				</tr>
+				<tr>
+					<td>Extra Cheese</td>
+					<td>
+						<select name="frmCheese" id="frmCheese">
+						<option value="Y">Yes</option>
+						<option value="N">No </option>
+					</td>
+				</tr>
+				<tr>
+					<td>Delivery</td>
+					<td>
+						<select name="frmDelivery" id="frmDelivery">
+						<option value="Y">Yes</option>
+						<option value="N">No</Option>
+					</td>
+				</tr>
+				<tr>
+					<td>Extra Instructions</td>
+					<td>
+					<input type="text" name="frmInstructions">
+					</td>
+				</tr>
+				<tr>
+					<td>Submit Your Order</td>
+					<td><input type="submit" value="submit"></td>
+			</tbody>
+		</table>
+</form>	
+</body>
+</html>

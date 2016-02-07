@@ -1,0 +1,56 @@
+body {background: url("background2.jpg");
+	background-attachment: fixed;
+	background-repeat:3;
+	background-size:1500px 2000px;
+	background-position:center ;
+	color:white;font-family:rockwell,bold;}
+h1 {font-size:300%;text-align:center;color:#fd0006;font-family:rockwell,serif;}
+
+
+.enterprise { margin-top: 10px;
+	margin-bottom:10px;
+	margin-right:50px;
+	margin-left:50px;}
+
+.enterprisetext {margin-top: 10px auto 10px 100px;
+	margin-bottom:10px;
+	margin-right:50px;
+	margin-left:50px;
+	border: 10px solid #fd0006;
+	color:green;
+ }
+
+.bridge1 {float:left;}
+.bridge2 {float:right;}
+.bridge3 {float:middle;
+	margin: auto auto auto auto;
+}
+
+
+nav {}
+
+nav ul {}
+
+nav li {list-style type: none;
+	display: inline;
+	border: 5px solid green;
+}
+
+nav a { padding: 10px;
+	margin: 10px;
+	color: red;
+	font-size: 1.5em;
+	text-decoration: none;
+}
+
+nav a:hover {color:purple; background: yellow;
+}
+
+nav a:visit {color: blue;
+}
+
+
+
+.original { font-size:200%;}
+
+.content {position:right;}

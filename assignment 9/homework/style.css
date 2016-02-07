@@ -1,0 +1,30 @@
+header   {background: grey;
+	height:60px;
+	width: 100%;
+	min-width:100%;
+	
+}
+
+
+header h1 {background:red;
+	height:40px;
+	float:left;
+	margin:10px 0px 10px 10px;
+	width:600px;
+	font-size: 1.5em;
+	text-align:center; 
+}
+
+
+header marquee {float:left;
+		width: 800px;
+		height:40px;
+		margin:10px 10px 10px 0px;
+		font-size:1.5em;
+}
+
+
+body {background: url("mainBackground.png");
+
+container {background: green;
+}

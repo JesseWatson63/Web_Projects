@@ -1,0 +1,14 @@
+header {font-size:300%;color:#ffe700;text-align:center;}
+
+body {background: url("background1.jpg");
+	background-repeat:3;
+	background-size:1500px 2000px;
+	background-position:center center;
+color:white;font-family:rockwell,bold;}
+
+#container {background:#ffa700;width:60%;margin:0px auto; position:center;}
+
+h1 {text-align:center;color:black;font-family:rockwell,serif;}
+h2 {text-align:center;color:black;font-family:rockwell,serif;}
+h3 {text-align:center;color:black;font-family:rockwell,serif;}
+
